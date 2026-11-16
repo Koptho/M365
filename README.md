@@ -18,4 +18,4 @@
 ### CSS – for å bestemme utsjånaden og utforminga av nettsida.
 ### WebStorm – som utviklingsverktøy.
 ## Formål
-# Prosjektet er laga som ei øving i webutvikling, med fokus på HTML, CSS, bilete, lenkjer og navigasjon mellom nettsider.
+### Prosjektet er laga som ei øving i webutvikling, med fokus på HTML, CSS, bilete, lenkjer og navigasjon mellom nettsider.
