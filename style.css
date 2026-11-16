@@ -1,0 +1,55 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+.bilde-container {
+    display: Flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+}
+
+.app-kort {
+    width: 30%;
+    background-color: white;
+    border: 2px solid darkblue;
+    border-radius: 10px;
+    padding: 15px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.app-kort img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.app-side {
+    max-width: 800px;
+    margin: 40 px auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.app-side img {
+    width: 100%;
+    max-height: 450px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.app-side p {
+    text-align: left;
+    line-height: 1.6;
+}
