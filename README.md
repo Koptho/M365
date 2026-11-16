@@ -1,16 +1,16 @@
 # M365
 
-##Om prosjektet
+## Om prosjektet
 
-###Dette prosjektet er ei enkel nettside som presenterer tre applikasjonar frå Microsoft 365: Word, Excel og PowerPoint.
+### Dette prosjektet er ei enkel nettside som presenterer tre applikasjonar frå Microsoft 365: Word, Excel og PowerPoint.
 
-###Målet med nettsida er å gi brukarane ei kort innføring i kva dei ulike applikasjonane blir brukte til.
+### Målet med nettsida er å gi brukarane ei kort innføring i kva dei ulike applikasjonane blir brukte til.
 
-##Applikasjonar
+## Applikasjonar
 
-##Microsoft Word
+## Microsoft Word
 
-###Word er eit tekstbehandlingsprogram som blir brukt til å skrive, redigere og formatere dokument.
+### Word er eit tekstbehandlingsprogram som blir brukt til å skrive, redigere og formatere dokument.
 
 ##Microsoft Excel
 
